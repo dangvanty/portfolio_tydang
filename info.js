@@ -341,7 +341,7 @@ tính năng quản lý bạn bè và quản lý cài đặt cấu hình.</p>
       category: { en: "Back-end developer", vi: "Lập trình hệ thống" },
       github: "",
       date: {
-        en: "Oct, 2023 - Feb, 2023",
+        en: "Oct, 2023 - Feb, 2024",
         vi: "10/2023 - 02/2024",
       },
       visit: "",
