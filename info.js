@@ -221,8 +221,8 @@ Phối hợp với các nhóm liên quan như BA và FE để xây dựng tính 
         en: `
         <p><strong>Description:</strong> ERP module for managing equipment investment requests.</p>
         <p><strong>Technologies:</strong> .NET Core, SQL Server</p>
-        <p><strong>Responsibilities:</strong> Developed real-time chat functionality, implemented file storage, built friend
-management features, and managed configuration settings features.</p>
+        <p><strong>Responsibilities:</strong> Developed API CRUD operations using .NET Core and T-SQL. Created
+reporting features and implemented overdue notification functionality.</p>
         <p><strong>Team size:</strong> 2 ( 1 front-end, 1 back-end)</p>
         `,
         vi: `
