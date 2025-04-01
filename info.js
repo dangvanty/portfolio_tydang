@@ -349,7 +349,8 @@ tính năng quản lý bạn bè và quản lý cài đặt cấu hình.</p>
         en: `
         <p><strong>Description:</strong> Real-time monitoring and management system for robot assistant</p>
         <p><strong>Technologies:</strong> .Net core, SQL server, SignalR, MQTT, ElectronJS</p>
-        <p><strong>Responsibilities:</strong> Developed real-time shuttle monitoring functionality, implemented system configuration settings, and managed shuttle transportation settings, Led face application</p>
+        <p><strong>Responsibilities:</strong>Developed real-time monitoring functionality, synchronized operation
+scenarios, implemented email sending, and managed notifications., Led face application</p>
         <p><strong>Team size:</strong> 3 ( 01 front-end, 01 Mobile, 01 back-end)</p>
         `,
         vi: `
